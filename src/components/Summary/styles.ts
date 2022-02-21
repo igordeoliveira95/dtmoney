@@ -28,7 +28,7 @@ export const Container = styled.div`
 
     &.highlight-background {
       background: var(--green);
-      color: #FFF;
+      color: #fff;
     }
   }
 `;
